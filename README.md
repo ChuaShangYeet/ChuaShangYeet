@@ -37,6 +37,12 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 
 [Technology and Information System Assigment 2.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951218/Technology.and.Information.System.Assigment.2.pdf)
 
+
+Reflection:
+
+From the industry talk, a clear message emerged:continuous learning is essential in IT industry. Don’t wait for the answer but find the answer yourself. Paper certification would be required on some extent, but anexcellent attitude, dedication to study, and inherentcuriosity are prioritized for a sustainable IT career.Inthe relentless pace of IT, continuous learning is non-negotiable. Staying motivated and embracingchallenges are critical for skill improvement because IT industry progress rapidly.
+
+
 <b>Assignment 3</b>
 
 ![Screenshot 2024-01-16 221810](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/ec9173c1-de7e-4604-a659-bc409c512fa7)
