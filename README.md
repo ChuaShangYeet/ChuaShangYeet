@@ -67,6 +67,11 @@ Through this activity, i learnt about the job scope of the UTM Digital staff and
 
 [Technology and Information System Assigment 4.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951450/Technology.and.Information.System.Assigment.4.pdf)
 
+Reflection:
+
+I learnt that we may divide up theproject's roles with colleagues if we run into issues that we areunable to resolve on our own. As a result, we must work as a teamto address the issue with our colleagues in order to guarantee thatwe function efficiently and smoothly so the client is satisfied withour service.
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
