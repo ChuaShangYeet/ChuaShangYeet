@@ -29,9 +29,14 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 
 ![Screenshot 2023-12-16 131206](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/9b02f73d-6e04-4ff9-aff1-c1a1812a15d6)
 
+
+[tis group assignment Nali.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13950897/tis.group.assignment.Nali.pdf)
+
 <b>Assignment 2</b>
 
 ![Screenshot 2023-12-16 131454](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/1d396fa0-aabe-455b-a1a5-4979e686aad8)
+
+[Modern Stationary Paper Border_20231128_133815_0000.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13950874/Modern.Stationary.Paper.Border_20231128_133815_0000.pdf)
 
 <b>Assignment 3</b>
 
