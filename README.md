@@ -31,6 +31,11 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 
 [Technology and Information System Assigment 1.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951210/Technology.and.Information.System.Assigment.1.pdf)
 
+Reflection:
+
+I feel that visiting NALI 2023 and the interview session helped us learn the course material better. The reasons are to gain more exclusive knowledge in communication and information technology after visiting different booths with different products. Besides, during the interview session,we will learn more about the developer’s perspective on their own product and its main purpose which will give us inspiration for creating and designing our own product in the education industry.
+
+
 <b>Assignment 2</b>
 
 ![Screenshot 2023-12-16 131454](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/1d396fa0-aabe-455b-a1a5-4979e686aad8)
