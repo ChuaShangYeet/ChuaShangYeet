@@ -26,7 +26,7 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 ### Assignments
 
 <b>Assignment 1</b>
-<a![Screenshot 2023-12-16 131206](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/9b02f73d-6e04-4ff9-aff1-c1a1812a15d6) /></a>
+<a![Screenshot 2023-12-16 131206](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/9b02f73d-6e04-4ff9-aff1-c1a1812a15d6)></a>
 
 
 <b>Assignment 2</b>
