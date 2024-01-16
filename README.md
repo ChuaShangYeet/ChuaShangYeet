@@ -25,7 +25,13 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 
 ### Assignments
 
+<b>Assignment 1</b>
 
+<b>Assignment 2</b>
+
+<b>Assignment 3</b>
+
+<b>Assignment 4</b>
 
 ### Badges
 
