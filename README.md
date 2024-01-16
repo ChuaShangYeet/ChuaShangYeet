@@ -26,6 +26,7 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 ### Assignments
 
 <b>Assignment 1</b>
+![Uploading Screenshot 2023-12-16 131206.png…]()
 
 <b>Assignment 2</b>
 
