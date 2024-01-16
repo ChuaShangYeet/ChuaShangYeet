@@ -54,6 +54,13 @@ From the industry talk, a clear message emerged:continuous learning is essential
 
 [Technology and Information System Assigment 3.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951220/Technology.and.Information.System.Assigment.3.pdf)
 
+
+Reflection:
+
+I think this activities brings benefit to me. It sparks interest in a particular field and industry. For example, the workspace of the UTM Digital, the open work environment give the student glimpse into an effective and productive working environment which also give me a motivation to strive and work in industry in the future like this.
+Through this activity, i learnt about the job scope of the UTM Digital staff and these are highy related to the TIS course. In the other hand, i know that i need to prepare myself to go to the industry and face the challenges in the future. 
+
+
 <b>Assignment 4</b>
 
 ![Screenshot 2024-01-16 222400](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/dcbe46af-076c-4d5e-922d-b468473bdb72)
