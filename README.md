@@ -29,28 +29,18 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 
 <a href="http://www.github.com/ChuaShangYeet"><img src="https://github-readme-stats.vercel.app/api?username=ChuaShangYeet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ChuaShangYeet's GitHub stats" /></a>
 
-      <article>
-									<header>
-										<span class="date">November 20, 2023</span>
-										<h2><a href="#">Technology and Information System (TIS) Project 1</a></h2>
-									</header>
 									<a href="#" class="image fit"><img src="images/Screenshot 2023-12-16 131206.png" alt="" /></a>
 									<p>Visit to New Academia Learning Innovation (NALI 2023) on 7th and 8th November 2023.</p>
 									<ul class="actions special">
 										<li><a href="projects/tis group assignment Nali.pdf" class="button">The Report</a></li>
-									</ul>
-								</article>
-      <article>
 									<header>
 										<span class="date">November 28, 2023</span>
 										<h2><a href="#">Technology and Information System (TIS) Project 2</a></h2>
-									</header>
+	  
 									<a href="#" class="image fit"><img src="images/Screenshot 2023-12-16 131454.png" alt="" /></a>
 									<p>Overview of ICT Jobs in Clarity Techworks Sdn. Bhd..</p>
 									<ul class="actions special">
 										<li><a href="projects/Modern Stationary Paper Border_20231128_133815_0000.pdf" class="button">The Poster</a></li>
-									</ul>
-								</article>
         
 <a href="http://www.github.com/ChuaShangYeet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChuaShangYeet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
