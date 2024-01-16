@@ -45,6 +45,10 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 
 <b>Assignment 4</b>
 
+![Screenshot 2024-01-16 222400](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/dcbe46af-076c-4d5e-922d-b468473bdb72)
+
+[Technology and Information System Assigment 4.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951450/Technology.and.Information.System.Assigment.4.pdf)
+
 ### Badges
 
 <b>My GitHub Stats</b>
