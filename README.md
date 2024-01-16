@@ -53,7 +53,7 @@ From the industry talk, a clear message emerged:continuous learning is essential
 ![Screenshot 2024-01-16 221810](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/ec9173c1-de7e-4604-a659-bc409c512fa7)
 
 [Technology and Information System Assigment 3.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951220/Technology.and.Information.System.Assigment.3.pdf)
-
+Video link: <a href="https://discord.com/users/10yeetichua01" target="_blank" rel="noreferrer">
 
 Reflection:
 
