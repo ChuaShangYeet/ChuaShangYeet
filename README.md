@@ -29,16 +29,19 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 
 ![Screenshot 2023-12-16 131206](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/9b02f73d-6e04-4ff9-aff1-c1a1812a15d6)
 
-
-[tis group assignment Nali.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13950897/tis.group.assignment.Nali.pdf)
+[Technology and Information System Assigment 1.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951210/Technology.and.Information.System.Assigment.1.pdf)
 
 <b>Assignment 2</b>
 
 ![Screenshot 2023-12-16 131454](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/1d396fa0-aabe-455b-a1a5-4979e686aad8)
 
-[Modern Stationary Paper Border_20231128_133815_0000.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13950874/Modern.Stationary.Paper.Border_20231128_133815_0000.pdf)
+[Technology and Information System Assigment 2.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951218/Technology.and.Information.System.Assigment.2.pdf)
 
 <b>Assignment 3</b>
+
+![Screenshot 2024-01-16 221810](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/ec9173c1-de7e-4604-a659-bc409c512fa7)
+
+[Technology and Information System Assigment 3.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/13951220/Technology.and.Information.System.Assigment.3.pdf)
 
 <b>Assignment 4</b>
 
