@@ -14,8 +14,7 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 ### Certificate
 
 These are my certificate
-
-![certificate_page-0006](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/d3f976ca-81e6-4919-866e-4c748d3e17cc)
+< img src=![certificate_page-0006](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/d3f976ca-81e6-4919-866e-4c748d3e17cc) width="105" height="148" />
 ![certificate_page-0005](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/fbc5addd-320d-45ab-a392-dd285a6c1378)
 ![certificate_page-0004](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/1a4522f1-ff1e-4219-8b35-c08f488b26ef)
 ![certificate_page-0003](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/351eba1e-5246-476c-a33e-82a1a08c2805)
@@ -36,6 +35,8 @@ This is my certificates in pdf file.
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/10yeetichua01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/shang.yeet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ChuaShangYeet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/yeetichua10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+
+### PC Assemble
 
 ### Assignments
 
@@ -90,7 +91,9 @@ Reflection:
 I learnt that we may divide up theproject's roles with colleagues if we run into issues that we areunable to resolve on our own. As a result, we must work as a teamto address the issue with our colleagues in order to guarantee thatwe function efficiently and smoothly so the client is satisfied withour service.
 
 
-<b>Design Thinking</b>
+### Design Thinking
+
+<b>Design Thinking Report</b>
 
 ![Screenshot 2024-01-26 144617](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/61ee3f04-5bd7-47c0-8b8a-52e74dc3515f)
 
