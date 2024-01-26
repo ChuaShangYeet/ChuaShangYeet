@@ -11,6 +11,20 @@ I am a University of Technology Malaysia's Computer Science (Bioinformatics) stu
 * 🧠  I'm learning Computer Science of Bioinformatics
 * 🤝  I'm open to collaborating on Projects
 
+### Certificate
+
+These are my certificate
+
+![certificate_page-0006](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/d3f976ca-81e6-4919-866e-4c748d3e17cc)
+![certificate_page-0005](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/fbc5addd-320d-45ab-a392-dd285a6c1378)
+![certificate_page-0004](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/1a4522f1-ff1e-4219-8b35-c08f488b26ef)
+![certificate_page-0003](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/351eba1e-5246-476c-a33e-82a1a08c2805)
+![certificate_page-0002](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/02bc6dc8-5d66-45fd-9468-2a3f228f87a3)
+![certificate_page-0001](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/1155783e-bb21-41f8-9b4b-fa93d2eeeaef)
+
+This is my certificates in pdf file.
+[certificate.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/14067195/certificate.pdf)
+
 ### Skills
 
 
