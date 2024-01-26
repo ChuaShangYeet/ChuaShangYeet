@@ -78,6 +78,8 @@ I learnt that we may divide up theproject's roles with colleagues if we run into
 
 <b>Design Thinking</b>
 
+![Screenshot 2024-01-26 144617](https://github.com/ChuaShangYeet/ChuaShangYeet/assets/149682808/61ee3f04-5bd7-47c0-8b8a-52e74dc3515f)
+
 [Design Thinking Project.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/14067111/Design.Thinking.Project.pdf)
 
 Reflection:
