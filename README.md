@@ -76,6 +76,17 @@ Reflection:
 I learnt that we may divide up theproject's roles with colleagues if we run into issues that we areunable to resolve on our own. As a result, we must work as a teamto address the issue with our colleagues in order to guarantee thatwe function efficiently and smoothly so the client is satisfied withour service.
 
 
+<b>Design Thinking</b>
+
+[Design Thinking Project.pdf](https://github.com/ChuaShangYeet/ChuaShangYeet/files/14067111/Design.Thinking.Project.pdf)
+
+Reflection:
+
+The goal regarding the technology and information system I want to know what I can be and what problems or challenges I will face in the future so I can be well-prepared to go into the industry.
+From the design thinking project, I know that there are some problems that may still be undiscovered by the developer or programmer that will affect the satisfaction of the users while using the application and browsing the website. Therefore, I could discover the problem and design a plan to solve it with my fellow team members. The design thinking assignment taught me how to communicate with the team members and think critically to solve problems with ease. As a result, I learned to communicate with my future colleagues and solve problems as a team.
+I need to study my course synchronously and asynchronously hard to sharpen my skill as a programmer or a developer of websites and applications, so I have the skill to face a variety of challenges in the industry.
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
